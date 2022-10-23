@@ -1,0 +1,5 @@
+name: Tntwars
+version: '${project.version}'
+main: de.bellobodo.tntwars.Tntwars
+api-version: 1.16
+authors: [ BelloBodo ]
